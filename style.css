@@ -127,5 +127,89 @@ ul li a {
 
 /* speaker-ends */
 /* pricing-section-start */
+.price-title{
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+.price-sub-title{
+    text-align: center;
+    color: #575757;
+    margin-bottom: 60px;
+}
+.container-price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 
+}
+.price-card-1{
+    width: 350px;
+    padding: 30px;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+}
+.price-card-2{
+    width: 350px;
+    padding: 30px;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    background-color: #0d1b2a;
+}
+.plan-pro{
+    color:#93c5fd;
+    margin: 13px;
+}
+.plan{
+    font-size: 12px;
+    color: #575757;
+    margin-bottom: 8px;
+}
+.plan-price{
+    font-size: 48px;
+    font-weight: 700;
+    color: #2a0d1b;
+}
+.price-person{
+    color: #575757;
+    margin-bottom: 20px;
+}
+.card-info-1{
+    border-top: 1px solid #575757;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.card-info-1 li{
+    margin-bottom: 12px;
+    color:#575757;
+
+
+}
+.card-info-1 li::marker{
+    color: #2563eb;
+}
+.btn{
+    padding: 14px;
+    border-radius: 14px;
+    font-size: 16px;
+    width: 100%;
+    
+}
+.btn-outline{
+    background: #ffffff;
+    color: #2563eb;
+    border: 1px solid #2563eb;
+}
+.btn-pro{
+    background: #2563eb;
+    color: #ffffff;
+    border: 1px solid #2563eb;
+
+}
+.btn-team{
+    background: #ffffff;
+    color: #575757;
+    border: 1px solid #575757;
+}
 /* pricing-section-end */
