@@ -84,6 +84,7 @@ ul li a {
     display: grid;
     grid-template-columns:1fr 1fr;
     gap: 20px;
+    margin-bottom: 20px;
 }
 .sec-title-speaker{
     text-align: center;
@@ -128,4 +129,3 @@ ul li a {
 /* pricing-section-start */
 
 /* pricing-section-end */
-
