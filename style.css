@@ -377,4 +377,18 @@ ul li a {
     50% { opacity: 0; }
 }
 /* generated section with AI ends */
+/* footer start */
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 100px;
+    background-color:#0D1B2A;
+    color: #575757;
+}
+.footer-privecy{
+    display: flex;
+    gap: 20px;
+}
+/* footer end */
 
